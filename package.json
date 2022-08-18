@@ -1,0 +1,12 @@
+{
+  "name": "blockchainclone",
+  "version": "1.0.0",
+  "description": "Small clone of Blockchain",
+  "main": "network.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js" 
+  },
+  "author": "sajjad shaikh",
+  "license": "ISC"
+}
